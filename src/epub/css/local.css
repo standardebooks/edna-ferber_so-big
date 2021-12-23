@@ -1,2 +1,22 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+blockquote.calling-card-border {
+	border-style: solid;
+	margin: 1em 15em 1em 15em;
+}
+
+p.calling-card-name {
+	text-align:center;
+	padding-top:3em;
+	padding-bottom:3em
+}
+
+p.calling-card-sig {
+	text-align:left;
+	padding-bottom: 1em
+}
+
+ul {
+	list-style-type:none
+}
