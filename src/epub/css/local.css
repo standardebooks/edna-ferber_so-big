@@ -1,18 +1,20 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-blockquote.calling-card{
+#chapter-7 blockquote{
 	border-style: solid;
-	margin: 1em 15em 1em 15em;
+	margin: 1em 3em 1em 3em;
 }
 
 p.calling-card:first-of-type{
+	font-variant: small-caps;
 	text-align: center;
-	padding-top: 3em;
-	padding-bottom: 3em;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
 p.calling-card:last-of-type{
+	font-style: italic;
 	text-align: initial;
 	padding-bottom: 1em;
 }
@@ -24,4 +26,8 @@ ul{
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
+}
+
+q{
+	font-style: italic;
 }
