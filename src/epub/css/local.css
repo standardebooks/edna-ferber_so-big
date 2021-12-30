@@ -31,3 +31,7 @@ ul{
 q{
 	font-style: italic;
 }
+
+#chapter-18 blockquote {
+	text-align: center;
+}
