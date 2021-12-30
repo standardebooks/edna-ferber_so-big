@@ -46,6 +46,9 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize Winners</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">7</meta>
 		<dc:description id="description">The life of a woman who discovers her own inner strength when she decides to teach children in a rural farming area.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Selina Peake moves from Chicago to a rural poor Dutch farming area just outside the city to teach in a one room school. As she attempts to fit into the society, she learns about her own strength as she marries an uneducated Dutch farmer named Pervus DeJong, and has a son, Dirk, nicknamed “So Big.” She wished her son to have the same appreciation for the arts and education she had and although he became an architect, his disillusionment with the architectural world leads him to a career as a successful bond salesman. He later regretted eschewing his architecture career when he meets a beautiful and eccentric artist.&lt;/p&gt;
