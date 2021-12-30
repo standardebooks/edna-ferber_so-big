@@ -45,40 +45,40 @@
 		<meta property="term" refines="#subject-4">sh2008100185</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The life of a woman who discovers her own inner strength when she decides to teach children in a rural farming area.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Selina Peake moves from Chicago to a rural poor Dutch farming area just outside the city to teach in a one room school. As she attempts to fit into the society, she learns about her own strength as she marries an uneducated Dutch farmer named Pervus DeJong, and has a son, Dirk, nicknamed "So Big." She wished her son to have the same appreciation for the arts and education she had and although he became an architect, his disillusionment with the architectural world leads him to a career as a successful bond salesman. He later regretted eschewing his architecture career when he meets a beautiful and eccentric artist.</p>
+			<p>First published in 1924, the author <a href="https://standardebooks.org/ebooks/edna-ferber">Edna Ferber</a> was not confident of the book's prospects but it became very popular, winning the Pulitzer Prize for the Novel in 1925 and was later made into three different motion pictures. </p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61686</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/sobigferb00ferb</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/So_Big</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/So_Big_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edna-ferber_so-big</meta>
 		<dc:creator id="author">Edna Ferber</dc:creator>
 		<meta property="file-as" refines="#author">Ferber, Edna</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edna_Ferber</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79077439</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Julius Gari Melchers</dc:contributor>
+		<meta property="file-as" refines="#artist">Melchers, Julius Gari</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gari_Melchers</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83191741</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Alex White</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">White, Alex</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Bob Kenyon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kenyon, Bob</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://www.bobrk.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
