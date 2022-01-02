@@ -3,17 +3,18 @@
 
 #chapter-7 blockquote{
 	border-style: solid;
+	border: 1px solid;
 	margin: 1em 3em 1em 3em;
 }
 
-p.calling-card:first-of-type{
+#chapter-7 blockquote p:first-of-type{
 	font-variant: small-caps;
 	text-align: center;
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
 
-p.calling-card:last-of-type{
+#chapter-7 blockquote p:last-of-type{
 	font-style: italic;
 	text-align: initial;
 	padding-bottom: 1em;
