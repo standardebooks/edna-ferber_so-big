@@ -66,8 +66,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edna_Ferber</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79077439</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Julius Gari Melchers</dc:contributor>
-		<meta property="file-as" refines="#artist">Melchers, Julius Gari</meta>
+		<dc:contributor id="artist">Gari Melchers</dc:contributor>
+		<meta property="se:name.person.full-name" refines="#author">Julius Garibaldi Melchers</meta>
+		<meta property="file-as" refines="#artist">Melchers, Gari</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gari_Melchers</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83191741</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
