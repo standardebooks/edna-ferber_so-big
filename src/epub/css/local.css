@@ -34,5 +34,6 @@ q{
 }
 
 #chapter-18 blockquote{
+	font-variant: small-caps;
 	text-align: center;
 }
