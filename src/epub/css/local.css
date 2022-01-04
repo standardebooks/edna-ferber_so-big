@@ -2,7 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-7 blockquote{
-	border-style: solid;
 	border: 1px solid;
 	margin: 1em 3em 1em 3em;
 }
