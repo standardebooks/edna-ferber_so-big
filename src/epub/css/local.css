@@ -33,3 +33,7 @@ ul{
 	font-variant: small-caps;
 	text-align: center;
 }
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
