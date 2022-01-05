@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edna-ferber/so-big</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-01-05T05:05:41Z</dc:date>
+		<meta property="dcterms:modified">2022-01-05T05:05:41Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -49,16 +48,16 @@
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">7</meta>
-		<dc:description id="description">The life of a woman who discovers her own inner strength when she decides to teach children in a rural farming area.</dc:description>
+		<dc:description id="description">A woman discovers her own inner strength when she decides to teach children in a rural farming area.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Selina Peake moves from Chicago to a rural Dutch farming area just outside the city to teach in a one room school. As she attempts to fit into the community, she learns about her own strength in adapting to rural life. She marries an uneducated but sweet Dutch farmer named Pervus DeJong and has a son, Dirk, nicknamed “So Big.” She wishes her son to have the same appreciation for the arts and education she has and although he becomes an architect, his disillusionment with the architectural apprentice system leads him to a career as a successful bond salesman. He later regrets eschewing his architecture career when he meets a beautiful and eccentric artist.&lt;/p&gt;
-			&lt;p&gt;First published in 1924, the author &lt;a href="https://standardebooks.org/ebooks/edna-ferber"&gt;Edna Ferber&lt;/a&gt; was not confident of the book’s prospects. Nevertheless, it became very popular, won her the Pulitzer Prize for the Novel in 1925, and was later made into three different motion pictures.&lt;/p&gt;
+			&lt;p&gt;Selina Peake moves from Chicago to a rural Dutch farming area just outside the city to teach in a one room school. As she attempts to fit into the community, she learns about her own strength in adapting to rural life. She marries an uneducated but sweet Dutch farmer named Pervus DeJong and has a son, Dirk, nicknamed “So Big.” She wishes her son to have the same appreciation for the arts and education she has, and although he becomes an architect, his disillusionment with the architectural apprentice system leads him to a career as a successful bond salesman. He later regrets eschewing his architecture career when he meets a beautiful and eccentric artist.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edna-ferber"&gt;Ferber&lt;/a&gt; was not confident of the book’s prospects when it was first published in. Nevertheless, it became very popular, won her the Pulitzer Prize for the Novel in 1925, and was later made into three different motion pictures.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61686</dc:source>
 		<dc:source>https://archive.org/details/sobigferb00ferb</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">88646</meta>
+		<meta property="se:reading-ease.flesch">75.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/So_Big_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edna-ferber_so-big</meta>
 		<dc:creator id="author">Edna Ferber</dc:creator>
@@ -88,6 +87,9 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Matic Likar</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Likar, Matic</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
