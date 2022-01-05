@@ -3,24 +3,27 @@
 
 #chapter-7 blockquote{
 	border: 1px solid;
-	margin: 1em 3em 1em 3em;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 15em;
+	padding: 1em;
 }
 
 #chapter-7 blockquote p:first-of-type{
 	font-variant: small-caps;
 	text-align: center;
-	padding-top: 1em;
-	padding-bottom: 1em;
 }
 
 #chapter-7 blockquote p:last-of-type{
 	font-style: italic;
+	margin-top: 1em;
 	text-align: initial;
-	padding-bottom: 1em;
+	text-indent: 0;
 }
 
 ul{
 	list-style-type: none;
+	padding: 0;
 }
 
 [epub|type~="z3998:verse"] p{
