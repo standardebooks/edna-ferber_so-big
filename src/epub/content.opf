@@ -69,8 +69,8 @@
 		<link href="https://id.loc.gov/authorities/names/n79077439.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Gari Melchers</dc:contributor>
-		<meta property="schema:alternateName" refines="#author">Julius Garibaldi Melchers</meta>
 		<meta property="file-as" refines="#artist">Melchers, Gari</meta>
+		<meta property="schema:alternateName" refines="#artist">Julius Garibaldi Melchers</meta>
 		<link href="https://en.wikipedia.org/wiki/Gari_Melchers" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n83191741.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -83,7 +83,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Bob Kenyon</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Kenyon, Bob</meta>
-		<link href="http://www.bobrk.com/" refines="#producer-1" rel="schema:url"/>
+		<link href="https://www.bobrk.com/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
